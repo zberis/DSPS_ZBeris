@@ -10,7 +10,7 @@ For the error bar, I would suggest you contain it in someway, although I don't h
 in most of cases.
 It is great that you eliminate the vertical grid line and decimal part of x tick.
 
-To sum up, I think you made a improve in ambiguity, and it could be further improved. I think the plot respect color practices. I don't think this plot should consider about color-blind since there is no dimention in data that need to be represented by different color.
+To sum up, I think you made a improve in ambiguity, and it could be further improved. For the 5 rules, design vairation could reduced if the scatter range decrease. I think the plot respect color practices. I don't think this plot should consider about color-blind since there is no dimention in data that need to be represented by different color.
 
 
 For the bad image in your hw, I absolutely agree with you, there are two many information overlap with each other.
